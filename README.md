@@ -86,7 +86,7 @@ Checks if any doctor is idol
 
 ### Environment Variables
 
-- `PORT`: The port the server will run on 8080.
+- `PORT`: The port the server will run on 8000.
 - `MySQL Database`: DATABASES = {  
     'default': {  
         'ENGINE': 'django.db.backends.mysql',  

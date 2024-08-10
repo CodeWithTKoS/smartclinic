@@ -66,7 +66,7 @@
     manage.py runserver
     ```
 
-6. Open your browser and navigate to `http://localhost:3000` to view the application.
+6. Open your browser and navigate to `http://localhost:8000` to view the application.
 
 ## Usage
 
